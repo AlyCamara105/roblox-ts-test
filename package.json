@@ -21,5 +21,8 @@
     "eslint-plugin-roblox-ts": "^0.0.35",
     "prettier": "^2.8.8",
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@rbxts/services": "^1.5.1"
   }
 }
