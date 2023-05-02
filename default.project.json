@@ -7,15 +7,27 @@
 	"tree": {
 		"$className": "DataModel",
 		"ServerScriptService": {
-			"$className": "ServerScriptService"
+			"$className": "ServerScriptService",
+			"TS": {
+				"$className": "Folder",
+				"$path": "out/server"
+			}
 		},
 		"ReplicatedStorage": {
-			"$className": "ReplicatedStorage"
+			"$className": "ReplicatedStorage",
+			"TS": {
+				"$className": "Folder",
+				"$path": "out/shared"
+			}
 		},
 		"StarterPlayer": {
 			"$className": "StarterPlayer",
 			"StarterPlayerScripts": {
-				"$className": "StarterPlayerScripts"
+				"$className": "StarterPlayerScripts",
+				"TS": {
+					"$className": "Folder",
+					"$path": "out/client"
+				}
 			}
 		},
 		"Workspace": {
