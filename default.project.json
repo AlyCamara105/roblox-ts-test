@@ -11,12 +11,12 @@
 		},
 		"ReplicatedStorage": {
 			"$className": "ReplicatedStorage"
-			}
 		},
 		"StarterPlayer": {
 			"$className": "StarterPlayer",
 			"StarterPlayerScripts": {
 				"$className": "StarterPlayerScripts"
+			}
 		},
 		"Workspace": {
 			"$className": "Workspace",
