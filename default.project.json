@@ -7,38 +7,16 @@
 	"tree": {
 		"$className": "DataModel",
 		"ServerScriptService": {
-			"$className": "ServerScriptService",
-			"TS": {
-				"$className": "Folder",
-				"$path": "out/server"
-			}
+			"$className": "ServerScriptService"
 		},
 		"ReplicatedStorage": {
-			"$className": "ReplicatedStorage",
-			"rbxts_include": {
-				"$path": "include",
-				"node_modules": {
-					"$className": "Folder",
-					"@rbxts": {
-						"$className": "Folder",
-						"$path": "node_modules/@rbxts"
-					}
-				}
-			},
-			"TS": {
-				"$className": "Folder",
-				"$path": "out/shared"
+			"$className": "ReplicatedStorage"
 			}
 		},
 		"StarterPlayer": {
 			"$className": "StarterPlayer",
 			"StarterPlayerScripts": {
-				"$className": "StarterPlayerScripts",
-				"TS": {
-					"$className": "Folder",
-					"$path": "out/client"
-				}
-			}
+				"$className": "StarterPlayerScripts"
 		},
 		"Workspace": {
 			"$className": "Workspace",

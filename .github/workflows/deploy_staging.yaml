@@ -15,8 +15,6 @@ jobs:
       with:
         version: v0.2.7
         token: ${{ github.token }}
-    - name: Install rojo
-      run: aftman install
     - name: Build place file
       run: rojo build -o game.rbxl
     - name: Publish place
