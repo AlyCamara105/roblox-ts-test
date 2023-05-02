@@ -5,7 +5,6 @@
 		"**/tsconfig.json",
 		"/include",
 		"/node_modules",
-		"/out",
 		"*.tsbuildinfo"
 	],
 	"tree": {
